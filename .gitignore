@@ -30,4 +30,7 @@ wheels/
 *.swo
 
 # Environment variables
-.env 
+.env
+
+#Credentials
+credentials.json
