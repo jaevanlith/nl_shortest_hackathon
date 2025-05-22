@@ -15,7 +15,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file in the root directory and add your Groq API key:
+3. Paste your API key in the `.env.example` and change the name of the file to `.env`
 ```
 GROQ_API_KEY=your_api_key_here
 ```
