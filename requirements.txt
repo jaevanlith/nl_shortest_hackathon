@@ -9,3 +9,4 @@ python-dotenv>=1.0.0
 rich>=13.7.0
 PyYAML>=6.0.1
 langchain_community
+slack_bolt
